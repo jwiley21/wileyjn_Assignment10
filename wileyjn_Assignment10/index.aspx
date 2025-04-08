@@ -9,6 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
+            <asp:Calendar ID="Calendar1" runat="server"></asp:Calendar>
         </div>
     </form>
 </body>
